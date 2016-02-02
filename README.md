@@ -1,2 +1,2 @@
 # flotsam-jacksam
-Home base
+Silly project to make random sounds
